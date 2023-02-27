@@ -1,16 +1,37 @@
 {
   "files": {
-    "main.css": "/DTU-website/static/css/main.073c9b0a.css",
-    "main.js": "/DTU-website/static/js/main.34a19093.js",
+    "main.css": "/DTU-website/static/css/main.2aaee76d.css",
+    "main.js": "/DTU-website/static/js/main.acd1e610.js",
     "static/js/787.4fbdcc0f.chunk.js": "/DTU-website/static/js/787.4fbdcc0f.chunk.js",
-    "static/media/logo.svg": "/DTU-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/xephang2022_vn3-33.jpg": "/DTU-website/static/media/xephang2022_vn3-33.6597430aeb08ee522441.jpg",
+    "static/media/box_slide.jpg": "/DTU-website/static/media/box_slide.0f580c85aade3fe6d0bb.jpg",
+    "static/media/1-47.jpg": "/DTU-website/static/media/1-47.d9db3dceac883c70bdac.jpg",
+    "static/media/harvard-mit-dtu-compressor-24-32-49.jpg": "/DTU-website/static/media/harvard-mit-dtu-compressor-24-32-49.eb8644eb92262f811d40.jpg",
+    "static/media/9-11-2022-8-43-59-19.png": "/DTU-website/static/media/9-11-2022-8-43-59-19.933d4b6dfcbe4eb4a7dd.png",
+    "static/media/23-8-2022-9-5-18-22.png": "/DTU-website/static/media/23-8-2022-9-5-18-22.cc932f48fb4a5905d8f8.png",
+    "static/media/z4049676016363_-16.png": "/DTU-website/static/media/z4049676016363_e591e0c0fbce75bf22882624d44bae90-16.f2852cf827928fe9d300.png",
+    "static/media/28-4-2022-15-31-24-4.png": "/DTU-website/static/media/28-4-2022-15-31-24-4.e68c90c7f81b93eff482.png",
+    "static/media/26-2-2022-9-37-29-48.jpg": "/DTU-website/static/media/26-2-2022-9-37-29-48.bb0b4565dadb63d51c77.jpg",
+    "static/media/9-12-2021-9-0-35-17.jpg": "/DTU-website/static/media/9-12-2021-9-0-35-17.b78b4795d59f51f1b5ea.jpg",
+    "static/media/19-5-2022-9-54-48-56.jpg": "/DTU-website/static/media/19-5-2022-9-54-48-56.9332e62c522b89799696.jpg",
+    "static/media/15-11-2022-9-10-55-26.png": "/DTU-website/static/media/15-11-2022-9-10-55-26.3ebe6a44cd4e79c43852.png",
+    "static/media/6-9-2022-9-58-0-17.png": "/DTU-website/static/media/6-9-2022-9-58-0-17.92c88845881f95ff9973.png",
+    "static/media/huan-chuong-lao-dong-dtu-compressor-10-81.jpg": "/DTU-website/static/media/huan-chuong-lao-dong-dtu-compressor-10-81.e200b9c9045d6fd8973f.jpg",
+    "static/media/z4027991742754_-37.jpg": "/DTU-website/static/media/z4027991742754_8cd429365b82c9e1b4fb5f2d5bbc56bd-37.6b4b90ba1b7b7b05be5c.jpg",
+    "static/media/img-1.png": "/DTU-website/static/media/img-1.fb52b1e217f4a9fe29b5.png",
+    "static/media/img-3.jpg": "/DTU-website/static/media/img-3.4afef03c775e068160b3.jpg",
+    "static/media/img-2.jpg": "/DTU-website/static/media/img-2.4248bcae2cab3b660277.jpg",
+    "static/media/slick.svg": "/DTU-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/DTU-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/DTU-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/DTU-website/index.html",
-    "main.073c9b0a.css.map": "/DTU-website/static/css/main.073c9b0a.css.map",
-    "main.34a19093.js.map": "/DTU-website/static/js/main.34a19093.js.map",
+    "static/media/slick.woff": "/DTU-website/static/media/slick.295183786cd8a1389865.woff",
+    "main.2aaee76d.css.map": "/DTU-website/static/css/main.2aaee76d.css.map",
+    "main.acd1e610.js.map": "/DTU-website/static/js/main.acd1e610.js.map",
     "787.4fbdcc0f.chunk.js.map": "/DTU-website/static/js/787.4fbdcc0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.34a19093.js"
+    "static/css/main.2aaee76d.css",
+    "static/js/main.acd1e610.js"
   ]
 }
