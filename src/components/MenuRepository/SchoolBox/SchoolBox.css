@@ -1,0 +1,32 @@
+.module-school-box{
+    width: 100%;
+    padding: 20px 0;
+    background: #EDEDED;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.module-school-box .container  {
+    /* height: 154px; */
+}
+
+.module-school-box .container .slider-container{
+    /* height: 154px; */
+ 
+}
+
+.slider-container .slick-list {
+    height: 100% !important;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    ;
+   
+}
+
+.slider-container button {
+    display: none !important;
+}
+.slider-container img{
+    padding: 0 2px;
+}

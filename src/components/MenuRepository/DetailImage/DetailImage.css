@@ -1,0 +1,258 @@
+/* main_module6 */
+.main_module6 div.galery {
+    width: 100%;
+    padding: 0;
+    background: #a9161c;
+}
+
+.main_module6 div.galery div.img_nice {
+    display: none;
+}
+
+.main_module6 div.galery div.item_gale {
+    overflow: hidden;
+    position: relative;
+    list-style: none;
+    float: left;
+    width: 25%;
+}
+
+    
+
+.main_module6 div.galery div.item_gale figure {
+    margin: 0;
+}
+
+.main_module6 div.galery div.item_gale figure a img {
+    width: 100%;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info {
+    display: none;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    padding: 30px 25px;
+    background: #fff;
+    z-index: 99;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info h2 {
+    padding: 0;
+    margin: 0;
+    line-height: 17px;
+    font-weight: bold;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info h2 a {
+    color: #a9161c;
+    padding: 0;
+    margin: 0;
+    background: transparent;
+    text-decoration: none;
+    outline: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info h2 a:hover {
+    background: transparent;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info a {
+    background: #a9161c;
+    padding: 5px 15px;
+    border-radius: 4px;
+    color: #fff;
+    text-decoration: none;
+    outline: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info_1 {
+    -webkit-animation: fadeInFromLeft .3s .1s backwards;
+    -moz-animation: fadeInFromLeft .3s .1s backwards;
+    -o-animation: fadeInFromLeft .3s .1s backwards;
+    -ms-animation: fadeInFromLeft .3s .1s backwards;
+    animation: fadeInFromLeft .3s .1s backwards;
+    right: -100%;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info_2 {
+    -webkit-animation: fadeInFromRight .4s .2s backwards;
+    -moz-animation: fadeInFromRight .4s .2s backwards;
+    -o-animation: fadeInFromRight .4s .2s backwards;
+    -ms-animation: fadeInFromRight .4s .2s backwards;
+    animation: fadeInFromRight .4s .2s backwards;
+    left: -100%;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info_3 {
+    -webkit-animation: fadeInFromLeft .3s .1s backwards;
+    -moz-animation: fadeInFromLeft .3s .1s backwards;
+    -o-animation: fadeInFromLeft .3s .1s backwards;
+    -ms-animation: fadeInFromLeft .3s .1s backwards;
+    animation: fadeInFromLeft .3s .1s backwards;
+    right: -100%;
+}
+.main_module6 div.galery div.item_gale .item_gale_show_info_4 {
+    -webkit-animation: fadeInFromRight .4s .2s backwards;
+    -moz-animation: fadeInFromRight .4s .2s backwards;
+    -o-animation: fadeInFromRight .4s .2s backwards;
+    -ms-animation: fadeInFromRight .4s .2s backwards;
+    animation: fadeInFromRight .4s .2s backwards;
+    left: -100%;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info_5 {
+    -webkit-animation: fadeInFromRight .4s .2s backwards;
+    -moz-animation: fadeInFromRight .4s .2s backwards;
+    -o-animation: fadeInFromRight .4s .2s backwards;
+    -ms-animation: fadeInFromRight .4s .2s backwards;
+    animation: fadeInFromRight .4s .2s backwards;
+    right: -100%;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info_6 {
+    -webkit-animation: fadeInFromRight .4s .2s backwards;
+    -moz-animation: fadeInFromRight .4s .2s backwards;
+    -o-animation: fadeInFromRight .4s .2s backwards;
+    -ms-animation: fadeInFromRight .4s .2s backwards;
+    animation: fadeInFromRight .4s .2s backwards;
+    left: -100%;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info_7 {
+    -webkit-animation: fadeInFromLeft .3s .1s backwards;
+    -moz-animation: fadeInFromLeft .3s .1s backwards;
+    -o-animation: fadeInFromLeft .3s .1s backwards;
+    -ms-animation: fadeInFromLeft .3s .1s backwards;
+    animation: fadeInFromLeft .3s .1s backwards;
+    right: -100%;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info_8 {
+    -webkit-animation: fadeInFromRight .4s .2s backwards;
+    -moz-animation: fadeInFromRight .4s .2s backwards;
+    -o-animation: fadeInFromRight .4s .2s backwards;
+    -ms-animation: fadeInFromRight .4s .2s backwards;
+    animation: fadeInFromRight .4s .2s backwards;
+    left: -100%;
+}
+
+.main_module6 div.galery div.item_gale .ovelay {
+    z-index: 11;
+    -webkit-animation: scaleUp .4s .2s backwards;
+    -moz-animation: scaleUp .4s .2s backwards;
+    -o-animation: scaleUp .4s .2s backwards;
+    -ms-animation: scaleUp .4s .2s backwards;
+    animation: scaleUp .4s .2s backwards;
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(169, 22, 28, 0.76);
+    transition: opacity 1s;
+}
+
+.main_module6 div.galery div.item_gale .item_gale_show_info a i {
+    padding-right: 5px;
+    font-size: 15px;
+}
+.main_module6 div.galery div.item_gale .item_gale_show_info a:hover, .main_module6 div.galery div.item_gale .item_gale_show_info a:focus {
+    background: #24333d;
+}
+.main_module6 div.galery div.item_gale .item_gale_show_info a:hover,
+.main_module6 div.galery div.item_gale .item_gale_show_info a:focus {
+    background: #24333d;
+}
+
+/* active */
+
+.main_module6 div.galery div.active {
+    overflow: visible !important;
+}
+
+.main_module6 div.galery div.active .item_gale_show_info_1 {
+    display: block !important;
+    background: #a9161c !important;
+    -webkit-animation: fadeInFromRight .4s .2s backwards;
+    -moz-animation: fadeInFromRight .4s .2s backwards;
+    -o-animation: fadeInFromRight .4s .2s backwards;
+    -ms-animation: fadeInFromRight .4s .2s backwards;
+    animation: fadeInFromRight .4s .2s backwards;
+}
+
+main_module6 div.galery div.active .item_gale_show_info_1 h2 {
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+.main_module6 div.galery div.active .item_gale_show_info_1 h2 a {
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    background: transparent;
+}
+
+.main_module6 div.galery div.active .item_gale_show_info_1 p {
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main_module6 div.galery div.active .item_gale_show_info_1 a {
+    background: #121212;
+    padding: 5px 15px;
+    border-radius: 4px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.main_module6 div.galery div.active .item_gale_show_info_1 a i {
+    padding-right: 5px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.main_module6 div.galery div.item_show_text {
+    float: left;
+    width: 50%;
+    background: #a9161c;
+    margin: 0;
+    outline: 0;
+}
+
+@media screen and (max-width: 991px){
+    .main_module6 div.galery div.item_gale {
+        width: 33.3333333333%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .main_module6 div.galery div.item_gale {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .main_module6 {
+        display: none;
+    }
+
+}

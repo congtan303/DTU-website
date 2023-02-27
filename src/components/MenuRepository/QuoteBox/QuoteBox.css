@@ -1,0 +1,126 @@
+.box_mo7 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 50px 0;
+}
+
+.box_mo7 .box_site_map .title_site {
+    position: relative;
+    display: block;
+    width: 400px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    padding-bottom: 4px;
+}
+
+.box_mo7 .box_site_map .title_site::before {
+    content: '';
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    background: #333;
+    left: 0;
+    bottom: -1px;
+}
+
+.box_mo7 .box_site_map .title_site::after {
+    content: '';
+    position: absolute;
+    height: 1px;
+    width: 70px;
+    background: #a9161c;
+    left: 0;
+    bottom: -1px;
+}
+.box_mo7 .box_site_map ul{
+    padding: 0;
+    width: 100%;
+}
+
+.box_mo7 .box_site_map ul li {
+    display: inline-block;
+    padding-right: 2px;
+    font-size: 18px;
+    letter-spacing: 2.5px;
+
+}
+
+/* box-2 */
+
+.main_module7 .box_mo7 .box_mo7_2{
+    padding: 25px 50px;
+}
+
+.box_mo7 .box_mo7_2 .block_quote{
+    position: relative;
+    padding: 25px 50px;
+}
+
+.box_mo7 .box_mo7_2 .block_quote::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 40px;
+    width: 42px;
+    height: 60px;
+    display: block;
+    background: url(../../../assets/img/img_module7/block_quote_1.png) top left no-repeat;
+}
+
+.box_mo7 .box_mo7_2 .block_quote::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    font-size: 40px;
+    width: 42px;
+    height: 60px;
+    display: block;
+    background: url(../../../assets/img/img_module7/block_quote_2.png) bottom right no-repeat;
+}
+.box_mo7 .box_mo7_2 .block_quote p {
+    font-size: 14px;
+    line-height: 18px;
+    padding: 0;
+    margin: 0;
+}
+
+.main_module7 .box_mo7 .box_mo7_1{
+    
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.main_module7 .box_mo7 .box_mo7_1 .logo_mo7 {
+    height: 60px;
+    width: 179px;
+}
+
+@media screen and (max-width: 991px) {
+    .main_module7 .box_mo7 .box_mo7_1 .logo_mo7 {
+        margin-right: 40px;
+    }
+    .main_module7 .box_mo7 .col-lg-6 col-md-12 box_mo7_2{
+        padding-top: 40px;
+    }
+
+    .main_module7 .box_mo7 .box_mo7_1{
+        display: flex;
+     
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .main_module7 .box_mo7 .box_mo7_1{
+        display: block;
+    
+    } 
+}
+
+@media screen and (max-width:576px) {
+    .main_module7 .box_mo7 .box_mo7_2{
+        padding: 15px;
+    }
+}

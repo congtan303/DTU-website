@@ -1,0 +1,153 @@
+.footer {
+    background: #ebebeb;
+    width: 100%;
+}
+.footer .container {
+    max-width: 1200px;
+}
+.row_section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer .box_footer {
+    width: 100%;
+    position: relative;
+    padding: 20px 0;
+}
+
+/* box-1 */
+.footer .box_footer .box_footer_1 {
+    width: 16%;
+}
+
+.footer .box_footer .box_footer_1 .title {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    color: #333;
+    width: 100%;
+}
+
+.footer .box_footer .box_footer_1 ul {
+    margin-top: 15px;
+    padding-left: 0;
+    padding-right: 25px;
+
+}
+
+.footer .box_footer .box_footer_1 ul li {
+    list-style: none;
+    line-height: 25px;
+}
+
+
+/* box-2 */
+.footer .box_footer .box_footer_2 {
+    width: 80%;
+}
+
+.footer .box_footer .box_footer_2 .title {
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.footer .box_footer .box_footer_2 .nav_footer {
+    width: 33.333333333333%;
+    margin-top: 15px;
+    padding-left: 0;
+    padding-right: 25px;
+    float: left;
+}
+
+.footer .box_footer .box_footer_2 ul {
+    width: 100%;
+}
+
+.footer .box_footer .box_footer_2 ul li {
+    list-style: none;
+    line-height: 18px;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-bottom: 7px;
+}
+
+.footer .box_footer .box_footer_2 ul li p.subnav {
+    background: url(https://cdn.duytan.edu.vn/images/channel/bullet-sub-gray.gif) no-repeat scroll 0 6px transparent;
+    padding-left: 12px;
+    cursor: pointer;
+
+}
+
+.footer .box_footer .box_footer_2 ul li p.subnav:hover {
+    background: url(https://cdn.duytan.edu.vn/images/channel/bullet-sub-red.gif) no-repeat scroll 0 6px transparent;
+}
+
+.footer .box_footer .box_footer_2 ul .sub-ul .sub-li i {
+    padding-right: 5px;
+    font-size: 6px;
+    color: #afafaf;
+
+}
+
+.nav_footer ul {
+    padding: 0;
+}
+
+.sub-ul {
+    display: none;
+    margin-left: 15px;
+}
+
+/* line-cop */
+
+.line_cop {
+    width: 100%;
+    border-top: 1px solid #a9161c;
+    padding: 12px 0;
+}
+
+.line_cop p {
+    line-height: 19px;
+    text-align: center;
+    margin: 8px 0;
+
+}
+
+.clicked{
+    background: url(../../assets/img/img_module7/bullet-sub-red-vertical.gif) no-repeat scroll 0 6px transparent !important;
+    color: #a9161c;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+@media screen and (max-width: 991px) {
+    .footer .box_footer .box_footer_2 .title,
+    .footer .box_footer .box_footer_1 .title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .box_mo7 .box_site_map .title_site{
+        margin: 0 !important;
+    }
+    .box_mo7 .box_site_map ul li{
+        letter-spacing: 6.5px !important;
+    }
+}
+
+
+
+
+@media screen and (max-width: 666px) {
+    .footer .box_footer .box_footer_1 {
+        display: none;
+    }
+
+    .footer .box_footer .box_footer_2 {
+        width: 100%;
+    }
+}
